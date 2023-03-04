@@ -26,7 +26,7 @@ for i in range(number_of_dots):
     elif coords[0] > 0 and coords[1] < 0:
         fourth_quater += 1
 
-print('Первая четверть: ', first_quater)
-print('Вторая четверть', second_quater)
-print('Третья четверть', third_quater)
-print('Четвертая четверть', fourth_quater)
+print('Первая четверть:', first_quater)
+print('Вторая четверть:', second_quater)
+print('Третья четверть:', third_quater)
+print('Четвертая четверть:', fourth_quater)
